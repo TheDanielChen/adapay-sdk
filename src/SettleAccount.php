@@ -1,7 +1,7 @@
 <?php
 
 namespace Cstopery\AdaPaySdk;
-use Cstopery\AdaPay;
+use Cstopery\AdaPay\AdaPay;
 
 class SettleAccount extends AdaPay
 {

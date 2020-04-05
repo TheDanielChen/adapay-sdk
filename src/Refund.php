@@ -1,6 +1,6 @@
 <?php
 namespace Cstopery\AdaPaySdk;
-use Cstopery\AdaPay;
+use Cstopery\AdaPay\AdaPay;
 
 
 class Refund extends AdaPay
